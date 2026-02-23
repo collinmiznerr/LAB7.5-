@@ -147,10 +147,6 @@ nav ul li a:hover {
   animation: slow-rotate 30s linear infinite;
 }
 
-@keyframes slow-rotate {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
 
 .section-heading {
   font-family: 'Courier New', monospace;
