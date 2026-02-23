@@ -1,0 +1,12 @@
+{
+  "name": "interstellar-explorer-log",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  },
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  }
+}
