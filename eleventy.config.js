@@ -11,7 +11,7 @@ export default function(eleventyConfig) {
   // Shortcode: alert — renders a ship system alert box
   eleventyConfig.addShortcode("shipAlert", function(level, message) {
     return `<div class="ship-alert ship-alert--${level}" role="note">
-      <span class="ship-alert__icon">${level === 'warning' ? '⚠' : level === 'danger' ? '🔴' : 'ℹ'}</span>
+      <span class="ship-alert__icon">${level === 'warning' ? '⚠' : level === 'danger' ? 'X' : 'ℹ'}</span>
       <span class="ship-alert__message">${message}</span>
     </div>`;
   });
