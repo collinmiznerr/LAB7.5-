@@ -7,7 +7,7 @@ title: About
 
 {% shipAlert "info", "This transmission originates from deep space. Signal latency: 4.2 years." %}
 
-**Stellar Log** is a personal transmission journal of Dr. Mira Vasquez, astrophysicist and sole crew member aboard the Interstellar Science Vessel *Perihelion*.
+**Stellar Log** is a personal transmission journal of Dr. MMira Vasquez, astrophysicist and sole crew member aboard the Interstellar Science Vessel *Perihelion*.
 
 ## The Mission
 
