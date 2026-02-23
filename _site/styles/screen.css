@@ -47,11 +47,6 @@ body {
   animation: pulse-star 4s ease-in-out infinite;
 }
 
-@keyframes pulse-star {
-  0%, 100% { opacity: 1; text-shadow: 0 0 8px #38bdf8; }
-  50% { opacity: 0.6; text-shadow: 0 0 2px #38bdf8; }
-}
-
 .logo-text {
   font-size: 2rem;
   font-weight: bold;
