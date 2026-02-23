@@ -27,7 +27,7 @@ Before departure he spent three years in analog mission training in the Arctic a
 
 ## Why Public Logs?
 
-The Consortium requires all mission personnel to maintain public transmission logs. The stated reason is scientific transparency. Mira suspects it's also to remind him that someone, eventually, will read these.
+The Consortium requires all mission personnel to maintain public transmission logs. The stated reason is scientific transparency. Collin suspects it's also to remind him that someone, eventually, will read these.
 
 ---
 
