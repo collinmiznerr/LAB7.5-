@@ -32,4 +32,4 @@ But then *Perihelion* adjusts her heading by three degrees and a new arm of the 
 
 That has to be enough. Most days, it is.
 
-*— Dr. Mira Vasquez, Explorer Vessel Perihelion*
+*— Mr. Collin Mizner, Explorer Vessel Perihelion*

@@ -30,4 +30,4 @@ I'll send the spectrometry data in the next relay burst. Let someone else figure
 
 For now I'm going to make bad instant coffee and watch a planet exist. It seems like the right thing to do.
 
-*— Dr. Mira Vasquez, Explorer Vessel Perihelion*
+*— Mr. Collin Mizner, Explorer Vessel Perihelion*
